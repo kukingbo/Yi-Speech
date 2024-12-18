@@ -1,0 +1,1 @@
+A dataset of the Yi language, which contains 200 phrases and phrases in the southern Yunnan Yi language. The data comes from the Dictionary of Ancient Yi Characters in Southern Yunnan. For more information, please refer to:http://www.yixueyanjiu.com/nisufont/indexhome.jsp
