@@ -1,6 +1,6 @@
 数据集介绍：
 
-彝语数据集，包含滇南彝语的 4600 个短语和短语，以及彝语的 1700 多个句子。数据来源于《滇南古彝文字词典》。选用transformer和conformer模型对数据集进行训练。有关更多信息，请参阅：http://www.yixueyanjiu.com/nisufont/indexhome.jsp
+彝语数据集包含彝语语音数据集和彝语文字数据集，其中有滇南彝语的 4600 个短语和短句语音，以及彝语的 1700 多个句子。数据来源于《滇南古彝文字词典》。选用transformer和conformer模型对数据集进行训练。有关更多信息，请参阅：http://www.yixueyanjiu.com/nisufont/indexhome.jsp
 
 
 Dataset Introduction：
